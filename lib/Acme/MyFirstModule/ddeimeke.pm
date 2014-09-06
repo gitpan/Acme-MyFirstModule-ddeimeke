@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-silly mistake
+# silly mistake
 
 =head1 NAME
 
@@ -16,7 +16,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 =head1 SYNOPSIS

@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-MyFirstModule-ddeimeke
-version:            0.02
+version:            0.03
 abstract:           The great new Acme::MyFirstModule::ddeimeke!
 author:
     - Dirk Deimeke <dirk@deimeke.net>
