@@ -4,6 +4,8 @@ use 5.006;
 use strict;
 use warnings;
 
+silly mistake
+
 =head1 NAME
 
 Acme::MyFirstModule::ddeimeke - The great new Acme::MyFirstModule::ddeimeke!
@@ -14,7 +16,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
